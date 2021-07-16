@@ -1,6 +1,5 @@
-<h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah Andersson</h1>
-<h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, <br> Tech Mentor, Public Speaker, Author, Blogger</h3>
-<h5 align="center">Genuine, Humble, Sincere </h5>
+<h1 align="center">Hi,👋 I'm Amey Naniwadekar</h1>
+<h3 align="center">CEH v10, Microsoft AZ 900, Microsoft AZ 104</h3>
 
 - 👋 Hi, I’m @ameynaniwadekar
 - 👀 I am working as a security analyst and interested in threat detection and response, threat intelligence, threat hunting.

@@ -14,7 +14,11 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<h3 align="left">Awards and Certifications</h3>
+<h3 align="left">Certifications</h3>
+
+1. Certified Ethical Hacker (CEH v10)
+2. Microsoft Azure Fundamental (AZ 900)
+3. Microsoft Azure Administrator Associate (AZ 104)
 
 <!---
 ameynaniwadekar/ameynaniwadekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

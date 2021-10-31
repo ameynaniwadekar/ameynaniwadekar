@@ -1,7 +1,7 @@
 <h1 align="center">Hi,👋 I'm Amey Naniwadekar</h1>
 <h3 align="center">CEH v10, Microsoft AZ 900, Microsoft AZ 104</h3>
 
-- 👀 I am working as a security analyst and interested in threat detection and response, threat intelligence, threat hunting, cloud security.
+- 👀 I am working as a senior security analyst and interested in threat detection and response, threat intelligence, threat hunting, cloud security.
 - 💞️ I’m looking to collaborate on some security tools, detection rules, build some innovative security solutions and CTFs.
 <!--- - 📫 How to reach me ... --->
 

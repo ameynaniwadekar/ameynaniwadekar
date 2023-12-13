@@ -1,7 +1,7 @@
 <h1 align="center">Hi,👋 I'm Amey Naniwadekar</h1>
-<h3 align="center">CEH v10, Microsoft AZ 900, AZ 104, SC 900, SC 200, AVSE</h3>
+<h3 align="center">C|EH v10, E|CIH, CCSK, Microsoft AZ 900, SC 900, AVSE</h3>
 
-- 👀 I am working as a senior security analyst and interested in threat detection and response, threat intelligence, threat hunting, cloud security.
+- 👀 I am working as a Assistant Manager - Cybersecurity and interested in threat detection and response, threat intelligence, threat hunting, cloud security.
 - 💞️ I’m looking to collaborate on some security tools, detection rules, build some innovative security solutions and CTFs.
 <!--- - 📫 How to reach me ... --->
 
@@ -16,10 +16,10 @@
 <h3 align="left">Certifications</h3>
 
 1. Certified Ethical Hacker (CEH v10)
-2. Microsoft Azure Fundamental (AZ 900)
-3. Microsoft Azure Administrator Associate (AZ 104)
-4. Microsoft Azure Security, Compliance, and Identity Fundamentals (SC 900)
-5. Microsoft Certified: Security Operations Analyst Associate (SC 200)
+2. EC-Council Certified Incident Handler (E|CIH)
+3. Certificate of Cloud Security Knowledge v.4 (CCSK)
+4. Microsoft Azure Fundamental (AZ 900)
+5. Microsoft Azure Security, Compliance, and Identity Fundamentals (SC 900)
 6. AlienVault Certified Security Engineer (AVSE)
 
 
